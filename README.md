@@ -1,7 +1,7 @@
 技术管理
 =
 ---
-<a name="ques">*Question-list*</a>  
+[*Question-list*](#ques) 
 
 选人定岗
 -
@@ -14,7 +14,7 @@
 
 晋升加薪
 -
-<#ques>团队建设
+<span id="ques">团队建设</span>
 -
 - 选人  
 - 用人  
