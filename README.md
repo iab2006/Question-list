@@ -1,9 +1,9 @@
 技术管理
 =
 ---
-<a href="#head">*Question-list*</a>
+*Question-list*
 
-[选人定岗](#前后端分离)
+选人定岗
 -
 工作量估计
 -
@@ -24,6 +24,6 @@
 # 前后端分离
 
 [美国公司组织上不分前后端](frontback.md "只有中国公司分前后端团队")  
-<a id="head"/>ques
+
 
 
